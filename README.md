@@ -1,3 +1,4 @@
+
 # M365-ITSM-Ticketing-System
 A centralized ticketing system built to streamline maintenance requests across 17+ retail locations. This solution replaces manual email/text reporting with a structured intake process, automated department routing, and mobile-friendly communication for managers.
 
@@ -11,7 +12,7 @@ Solution: A centralized "Single Source of Truth" system that automates the lifec
 
 The Result: 0% lost tickets, 100% accurate store data routing, and a professional mobile interface for managers on the move.
 
-
+<img width="959" height="585" alt="M365TicketingSystem" src="https://github.com/user-attachments/assets/10626278-419a-438d-a68e-d23bb2aa9c51" />
 
 How it Works (The "Engine" Under the Hood)
 The Intake: Users submit a ticket via a simplified SharePoint interface.
