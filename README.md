@@ -32,3 +32,4 @@ Direct-Dial Link: No looking up numbers.
 GPS Quick-Link: No typing addresses.
 
 Deep-Link to Item: No searching for the ticket.
+<img width="1577" height="726" alt="TASKLISTS" src="https://github.com/user-attachments/assets/4a2e6ae1-fe13-4a39-99a9-495ad650b821" />
